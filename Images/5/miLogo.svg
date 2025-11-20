@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   version="1.1"
+   id="Capa_1"
+   width="369.83551"
+   height="135.58232"
+   viewBox="0 0 12.560539 4.6047146"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1"><linearGradient
+     id="linearGradient3"><stop
+       style="stop-color:#ff2afb;stop-opacity:1;"
+       offset="0"
+       id="stop3" /><stop
+       style="stop-color:#001bf2;stop-opacity:1;"
+       offset="1"
+       id="stop4" /></linearGradient><linearGradient
+     xlink:href="#linearGradient3"
+     id="linearGradient12"
+     x1="9.7310238"
+     y1="1.6861775"
+     x2="10.271186"
+     y2="1.6861775"
+     gradientUnits="userSpaceOnUse" /></defs>
+
+<rect
+   style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0609813;stroke-opacity:1"
+   id="rect7"
+   width="12.347102"
+   height="4.5437336"
+   x="0.18294601"
+   y="0.03049065" /><text
+   xml:space="preserve"
+   style="font-size:0.412627px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:2.87955;fill:url(#linearGradient12);stroke-width:0.0339625"
+   x="9.7130547"
+   y="1.843834"
+   id="text5"
+   transform="matrix(6.0136967,0,0,5.0999078,-57.856664,-5.1224055)"><tspan
+     x="9.7130547"
+     y="1.843834"
+     id="tspan1">REFERIGO</tspan></text><path
+   style="fill:#ff00ff;stroke-width:0.0339625"
+   d="m 0,0.88655612 11.951995,0.03293"
+   id="path3" /><path
+   style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.0337949px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m 0.2176672,2.4238872 12.3126838,-0.0029"
+   id="path7" /><ellipse
+   style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.0339625;stroke-opacity:1"
+   id="path10"
+   cx="6.3407621"
+   cy="1.3282278"
+   rx="2.1154702"
+   ry="0.88899136" /><path
+   style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.0339625;stroke-opacity:1"
+   id="path11"
+   d="m 13.56535,14.635433 -0.346183,-0.182696 -0.346757,0.181604 0.06678,-0.385696 -0.279869,-0.273667 0.387454,-0.05568 0.173788,-0.35074 0.172682,0.351286 0.387277,0.0569 -0.280731,0.272783 z"
+   transform="translate(-6.8405371,-12.862709)" /></svg>
